@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:4ECDC4,50:6BCB77,100:FBBF24&height=180&section=header&text=Meng%20Fung&fontSize=42&fontColor=000&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Ruby%20on%20Rails%20%7C%20Python&descSize=18&descAlignY=52"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,50:6BCB77,100:FBBF24&height=180&section=header&text=Meng%20Fung&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Ruby%20on%20Rails%20%7C%20Python&descSize=18&descAlignY=52"/>
 
 <!-- TYPING SVG -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
